@@ -1,0 +1,26 @@
+{
+  "name": "discord-music-bot",
+  "version": "1.0.0",
+  "description": "wef9od",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edlerj/discord-music-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edlerj/discord-music-bot/issues"
+  },
+  "homepage": "https://github.com/edlerj/discord-music-bot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-binaries": "^4.0.0",
+    "opusscript": "0.0.7",
+    "ytdl-core": "^1.0.3"
+  }
+}
